@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-iguana/webpack-day-KyleJack/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-KyleJack#readme"
+  "homepage": "https://github.com/thinkful-ei-iguana/webpack-day-KyleJack#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
